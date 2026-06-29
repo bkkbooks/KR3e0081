@@ -1,0 +1,50 @@
+canonical_identifier: bkk:krp/KR3e0081/v1
+canonical_location: https://kanripo.org/bkk/KR3e0081/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 瀕湖脈學
+  date: '2015-08-24 23:07:54.292551'
+  source:
+    repository: kanripo
+    path: KR3e0081
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR3e0081_000.yaml, hash: 'sha256:33a80453c63336eb82e86e281acf9d007eeff163bab45909e1303e20b95b2790'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3e0081_000.markers.yaml, hash: 'sha256:20167779430320d89e18a6ab9ca3fb78c08151fa30e5b829ce18341c692e5eaf'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3e0081_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 282
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3e0081_WYG_000-3a
+    span:
+    - body
+    - 282
+    - 11986
+  label: 瀕湖脉學
+  type: section
+  level: 1
+hash: sha256:6157420b8d751a7dabd988c58b305166ddd7f68976d095668f632f04371604a3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
