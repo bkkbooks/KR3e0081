@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR3e0081_000.yaml, hash: 'sha256:33a80453c63336eb82e86e281acf9d007eeff163bab45909e1303e20b95b2790'}
+  - {seq: 0, filename: KR3e0081_000.yaml, hash: 'sha256:db8edaa9423630164381b0745a222ad8d9941188d774d73c7ef3cbd616c022cd'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3e0081_000.markers.yaml, hash: 'sha256:20167779430320d89e18a6ab9ca3fb78c08151fa30e5b829ce18341c692e5eaf'}
+  - {seq: 0, role: markers, filename: assets/KR3e0081_000.markers.yaml, hash: 'sha256:8d895898ebdd85d09ae0fe8d286d607a73bb86b6f8ddd120c29402922d7ca980'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,7 +44,4 @@ table_of_contents:
   label: 瀕湖脉學
   type: section
   level: 1
-hash: sha256:6157420b8d751a7dabd988c58b305166ddd7f68976d095668f632f04371604a3
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:14c3a51ad04774c7655ce0778e441f5f5eee979bcccb568c09fb838ed3feec46
