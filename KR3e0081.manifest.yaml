@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3e0081/v1
 canonical_location: https://kanripo.org/bkk/KR3e0081/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 瀕湖脈學
   date: '2015-08-24 23:07:54.292551'
@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR3e0081_000.yaml, hash: 'sha256:db8edaa9423630164381b0745a222ad8d9941188d774d73c7ef3cbd616c022cd'}
+  - {seq: 0, filename: KR3e0081_000.yaml, hash: 'sha256:1bb6f818e73d0658ff0287da7a5c6c6dfd0c8c85ef4aa8b4fdaafc4ae9f29fd3'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3e0081_000.markers.yaml, hash: 'sha256:8d895898ebdd85d09ae0fe8d286d607a73bb86b6f8ddd120c29402922d7ca980'}
+  - {seq: 0, role: markers, filename: assets/KR3e0081_000.markers.yaml, hash: 'sha256:721db21b0a84895140602c879a23240094a5d1131c9c35dab6c6aa92029a61ae'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,4 +44,7 @@ table_of_contents:
   label: 瀕湖脉學
   type: section
   level: 1
-hash: sha256:14c3a51ad04774c7655ce0778e441f5f5eee979bcccb568c09fb838ed3feec46
+hash: sha256:2ad9764b8846a14755b51bf106237c92d65ce25685f160f4dc3530003a97a329
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
