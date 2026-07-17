@@ -22,7 +22,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3e0081_000.yaml, hash: 'sha256:1bb6f818e73d0658ff0287da7a5c6c6dfd0c8c85ef4aa8b4fdaafc4ae9f29fd3'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3e0081_000.markers.yaml, hash: 'sha256:721db21b0a84895140602c879a23240094a5d1131c9c35dab6c6aa92029a61ae'}
+  - {seq: 0, role: markers, filename: assets/KR3e0081_000.markers.yaml, hash: 'sha256:8ea2da3ced5efd60540ae764cb9b916078b4b3963b29447716c39c7b68b9a9e7'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,7 +44,7 @@ table_of_contents:
   label: 瀕湖脉學
   type: section
   level: 1
-hash: sha256:2ad9764b8846a14755b51bf106237c92d65ce25685f160f4dc3530003a97a329
+hash: sha256:67c2bc9275ac74fdaba8d4e541eee3c24eec8c094ef3bf81d461a413f7c40012
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3e0081_000-WYG.yaml, hash: 'sha256:bf2b659c834eb0be4fed2a78b192633a1c86c42597aa3af060617d58e86d9a63'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3e0081_000-WYG.markers.yaml, hash: 'sha256:88e9ee390c0ed6dc63524211d15ddf2810ae60fd485cbadab99196180ab9e259'}
+  - {seq: 0, role: markers, filename: assets/KR3e0081_000-WYG.markers.yaml, hash: 'sha256:f72e20d4a0a73a2b3318ce99c39b7e9aa36c50fedc6f47ec9774e773fab4f8d9'}
 table_of_contents:
 - ref:
     seq: 0
@@ -41,4 +41,4 @@ table_of_contents:
   label: 瀕湖脉學
   type: section
   level: 1
-hash: sha256:efb37d71394a95003bd77da5143086193bdeae8ed0b105ee993895fd37c7c7ce
+hash: sha256:2ad36249f0f35f6e5b00e28326ea4b0082b78d3521e614bed58000f8b3cfdaf1
